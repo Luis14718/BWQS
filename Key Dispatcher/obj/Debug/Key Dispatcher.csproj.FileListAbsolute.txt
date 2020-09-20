@@ -43,3 +43,26 @@ D:\repositorio\Key Dispatcher\Key Dispatcher\obj\Debug\Key Dispatcher.csproj.Cor
 D:\repositorio\Key Dispatcher\Key Dispatcher\obj\Debug\Key Dispatcher.csproj.CopyComplete
 D:\repositorio\Key Dispatcher\Key Dispatcher\obj\Debug\Key Dispatcher.exe
 D:\repositorio\Key Dispatcher\Key Dispatcher\obj\Debug\Key Dispatcher.pdb
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\Key Dispatcher.exe.config
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\Key Dispatcher.exe
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\Key Dispatcher.pdb
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\AForge.dll
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\AForge.Video.dll
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\zxing.dll
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\zxing.presentation.dll
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\AForge.xml
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\AForge.Video.xml
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\zxing.pdb
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\zxing.xml
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\zxing.presentation.pdb
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\bin\Debug\zxing.presentation.xml
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key Dispatcher.csprojAssemblyReference.cache
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key_Dispatcher.Form1.resources
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key_Dispatcher.Properties.Resources.resources
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key Dispatcher.csproj.GenerateResource.cache
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key Dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key Dispatcher.csproj.CopyComplete
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key Dispatcher.exe
+C:\Users\Daniel Rodriguez\Documents\GitHub\BWQS\Key Dispatcher\obj\Debug\Key Dispatcher.pdb
